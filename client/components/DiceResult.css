@@ -1,0 +1,23 @@
+.results {
+  padding-top: 1em;
+}
+
+.results > div {
+  margin-bottom: 0.5em;
+}
+
+.results > button {
+  margin-bottom: 1em;
+}
+
+.results:last-child {
+  margin-bottom: 0;
+}
+
+.result > * {
+  margin-right: 0.5em;
+}
+
+.result:last-child {
+  margin-right: 0;
+}

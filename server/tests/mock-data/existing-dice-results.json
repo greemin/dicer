@@ -1,0 +1,5 @@
+[
+  { "rolls": [4, 6], "modifier": 1, "sum": 11, "userName": "FooBar" },
+  { "rolls": [4, 6], "modifier": 1, "sum": 11 },
+  { "rolls": [4, 6], "modifier": 1, "sum": 11, "userName": "TestName" }
+]

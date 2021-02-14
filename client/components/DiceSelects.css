@@ -1,0 +1,7 @@
+.selects > * {
+  margin-right: 0.5em;
+}
+
+.selects:last-child {
+  margin-right: 0;
+}
